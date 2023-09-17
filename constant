@@ -1,0 +1,20 @@
+package constant
+
+const (
+	TOKEN_NAME_IN_OS             = "Very sex bot for Rina"
+	UPDATE_CONFIG_TIMEOUT        = 60
+	
+
+	BUTTON_CODE_PRINT_INTRO = "print_intro"
+
+	BUTTON_CODE_BALANCE = "show_balance"
+
+	BUTTON_CODE_DONATE   = "print_donate"
+	BUTTON_CODE_PRINT_MENU = "print_menu"
+
+// создать эмоджи котенка ...........
+// make emogi banana
+// make эмоджи клубники
+//make эмоджи горячего ебала
+
+)
